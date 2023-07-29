@@ -1,0 +1,46 @@
+Platform as a service environments
+  
+  1. Orchestrated service containers
+    -> Each pass environmens is a Orchestrated service container
+    -> Database, php, enginex, radis, opensearch, rabbitmq etc.
+
+  2. Environment corresponds wih Git branches
+    -> Create as many as git branches in your project (inactive branches).
+
+  3. Starter Plan 
+    -> All environments will be pass environments
+
+  4. Pro Plan
+    -> Some environments will be pass environments
+
+
+  ***********************************************      Starter (Up to 4 Active Enviornments)    ****************************************
+  
+   (Master) Production
+           |
+           |------------Staging
+                          |
+                          |---------- Integration
+                                          |
+                                          |--------------- Other Active Branch
+
+
+
+
+
+
+  ***************************************************************    Pro    **********************************************************
+
+
+        Master
+           |
+           |------------ Production (Not Paas)
+                          |
+                          |---------- Staging (Not Paas)
+                                          |
+                                          |--------------- Integration
+                                                                |
+                                                                |------------------ Other Active Branch
+                          
+
+  
