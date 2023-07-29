@@ -1,0 +1,55 @@
+Infrastructure as a service environments (Applied only for pro subscribtion plan)
+
+  * Pro staging and production environment
+  
+  * Dedicated hardware on AWS or Microsoft azure
+      -> Choose any hardware when project onboarding.
+
+  * Web Nodes
+    -> Production Env
+        - Load balancer with 3 web nodes
+    
+    -> Staging Env
+        - 1 web node
+
+    -> Per Node
+      - NGINX and PHP-FPM
+      - Redis
+
+    -> Shared
+      - File mounts for key directories
+      - Opensearch
+      - Database cluster
+
+
+
+  ***************************************************************    Pro    **********************************************************
+
+
+        Master (Paas)
+           |
+           |------------ Production (Iaas)
+                          |
+                          |---------- Staging (Iaas)
+                                          |
+                                          |--------------- Integration (Paas)
+                                                                |
+                                                                |------------------ Other Active Branch (Paas)
+
+
+
+
+
+
+
+Scaled Architecture
+
+    |
+    |-> Core Tier
+          - 3 nodes for database, Redis, Opensearch
+          - Scale vertically (up-size power and memory)
+
+    |
+    |-> Web Tier
+          - 3 web server nodes
+          - Scale vertically and horizontally (additional nodes)
