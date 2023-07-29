@@ -1,1 +1,41 @@
-# magento_cloud
+Magento Commerce Cloud Expert Topics
+
+	-1.1.1_ Service plans for Adobe Commerce Cloud Certification
+	-1.1.2_ PaaS environments for Adobe Commerce Cloud Certification
+	-1.1.3_ IaaS Environments for Adobe Commerce Cloud Certification
+	-1.2.1_ Services for Adobe Commerce Cloud Certification
+	-1.2.2_ Fastly for Adobe Commerce Cloud Certification
+	-1.2.3_ The Filesystem for Adobe Commerce Cloud Certification
+	-1.2.4_ Backups and Log Rotation for Adobe Commerce Cloud Certification
+	-2.1.1_ Composer for Adobe Commerce Cloud Certification
+	-2.1.2_ Git for Adobe Commerce Cloud Certification
+	-2.1.3_ SSH for Adobe Commerce Cloud Certification
+	-2.2.1_ The Project Web Interface for Adobe Commerce Cloud Certification
+	-2.2.2_ The Cloud CLI Tool for Adobe Commerce Cloud Certification
+	-2.2.3_ ECE-Tools for Adobe Commerce Cloud Certification
+	-2.3.1_ Log Files for Adobe Commerce Cloud Certification
+	-2.3.2_ Users for Adobe Commerce Cloud Certification
+	-3.1.1_ Working with Environments for Adobe Commerce Cloud Certification
+	-3.1.2_ Branching and Merging for Adobe Commerce Cloud Certification
+	-3.1.3 Activating and Deactivating for Adobe Commerce Cloud Certification
+	-3.1.4_ Synchronizing Environments for Adobe Commerce Cloud Certification
+	-3.2.1_ Snapshots for Adobe Commerce Cloud Certification
+	-3.2.2_ Database Backups for Adobe Commerce Cloud Certification
+	-4.1.1_ Configuring the Application for Adobe Commerce Cloud Certification
+	-4.1.2_ Disk Configuration for Adobe Commerce Cloud Certification
+	-4.2.1 Service Configuration for Adobe Commerce Cloud Certification
+	-4.2.2 Viewing Service Relationships for Adobe Commerce Cloud Certification
+	-4.2.3 SSH Tunneling for Adobe Commerce Cloud Certification
+	-4.3.1_ Configuring URL Paths for Adobe Commerce Cloud Certification
+	-4.3.2_ Routes for Adobe Commerce Cloud Certification
+	-4.3.3_ Multi-Domain Setup for Adobe Commerce Cloud Certification
+	-4.4.1_ Variables Overview for Adobe Commerce Cloud Certification
+	-4.4.2_ Environment Variables for Adobe Commerce Cloud Certification
+	-4.4.3_ Store Configuration Overrides for Adobe Commerce Cloud Certification
+	-4.4.4_ ADMIN and CLOUD Variables for Adobe Commerce Cloud Certification
+	-4.4.5_ Build_Deploy Variables for Adobe Commerce Cloud Certification
+	-5.1.1_ Build and Deploy Overview for Adobe Commerce Cloud Certification
+	-5.1.2_ Scenario-Based Deployments for Adobe Commerce Cloud Certification
+	-5.1.3_ Patches for Adobe Commerce Cloud Certification
+	-5.2.1_ Static Content Deployment for Adobe Commerce Cloud Certification
+	-Real story_ how to Pass the Adobe Commerce Expert
