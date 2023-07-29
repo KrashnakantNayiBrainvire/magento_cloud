@@ -1,4 +1,4 @@
-Magento Commerce Cloud Expert Topics
+Magento Commerce Cloud Topics
 
 	-1.1.1_ Service plans for Adobe Commerce Cloud Certification
 	-1.1.2_ PaaS environments for Adobe Commerce Cloud Certification
