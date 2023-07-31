@@ -1,0 +1,21 @@
+Backups and Log Rotation (Snapshot)
+
+	* Manual (Starter Plan)
+
+	* Automated (Only Pro Plan)
+
+		-> Implemented in pro only
+		-> Backup retention: It's need a support ticket to restore system backup.
+
+			- Days 1-3 : One per hour
+			- Days 4-7 : One per day
+			- Weeks 2-6 : One per week
+			- Weeks 8-12 : Every two weeks
+			- Months 3-5 : One per month
+
+		-> Log retention : (Archived once per day)
+
+			- Default Name: /var/log/deploy.log
+			- Archived Name: /var/log/deploy.log.10.gz
+				-> 10 is equels to how many days passed since this log + 1
+				-> Available for one year data.
